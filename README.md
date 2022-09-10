@@ -39,7 +39,7 @@ SO THAT I can keep a list of books to purchase
   <br><img src="./screenshot.png" alt="screenshot of the app" width="350"/>
 
   
-- [The URL of the deployed application](https://noori36.github.io/PasswordGenerator/)
+- [The URL of the deployed application](https://git.heroku.com/thawing-anchorage-40725.git)
 
 - [The URL of the GitHub repository.](https://github.com/noori36/Book-Search-Engine)
  
