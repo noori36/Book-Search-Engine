@@ -17,19 +17,19 @@ type Book {
     title: String
 }
 
-input SavedBookInput {
-    authors: [String]
+input SavedBook {
     title: String
     description: String
     bookId: String
     image: String
     link: String
+    authors: [String]
 }
 
 type Mutation {
     login(email: String, password: String): Auth
     addUser(username: String!, email: String, password: String): Auth
-    saveBook(input: SavedBookInput): User
+    saveBook(input: SavedBook): User
     removeBook(bookId: String): User
     
 }
