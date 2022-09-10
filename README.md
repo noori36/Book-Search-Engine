@@ -36,7 +36,7 @@ SO THAT I can keep a list of books to purchase
   To search and save the books in user accounts.
   
   - Screenshot
-  <br><img src="./assets/screenshot.png" alt="screenshot of the app" width="350"/>
+  <br><img src="./screenshot.png" alt="screenshot of the app" width="350"/>
 
   
   - <a href="https://drive.google.com/file/d/1iPPX536CDu79SzQpO5xcSelrJXQsCrfa/view?usp=sharing"> Walkthrough Video</a>
