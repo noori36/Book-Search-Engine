@@ -41,9 +41,9 @@ SO THAT I can keep a list of books to purchase
   
   - <a href="https://drive.google.com/file/d/1iPPX536CDu79SzQpO5xcSelrJXQsCrfa/view?usp=sharing"> Walkthrough Video</a>
   
-[The URL of the deployed application](https://noori36.github.io/PasswordGenerator/)
+- [The URL of the deployed application](https://noori36.github.io/PasswordGenerator/)
 
-[The URL of the GitHub repository.](https://github.com/noori36/PasswordGenerator)
+- [The URL of the GitHub repository.](https://github.com/noori36/PasswordGenerator)
  
 
   ## Contributing:
